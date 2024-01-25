@@ -1,0 +1,13 @@
+{
+  "name": "hostfully-challenge",
+  "version": "1.0.0",
+  "description": "Automation challenge",
+  "main": "index.js",
+  "repository": "https://arielmachado-uy@github.com/arielmachado-uy/hostfully-challenge.git",
+  "author": "Ariel Machado <arielma77@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "typescript": "^5.3.3"
+  }
+}
